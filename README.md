@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **ASP.NET, VB.NET, TSQL, Design Patterns and S.O.L.I.D**
 
-- 📫 How to reach me **ale3andros.apo@gmail.com**
+- 📫 How to reach me **alexandros.apo.work@gmail.com**
 
 - ⚡ Fun fact **Recent studies show that around 70% of coding jobs have nothing to do with technology at all**
 

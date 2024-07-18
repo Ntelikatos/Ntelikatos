@@ -1,27 +1,99 @@
-<h1 align="center">Hi 👋, I'm Alexandros Apostolakis</h1>
-<h3 align="center">A passionate Senior Full-stack Developer from Greece</h3>
+<h2 align="left">Hi 👋, I'm Alexandros</h2>
 
-- 🔭 I’m currently working on [MyDataApiConsumer](https://github.com/Ntelikatos/MyDataApiConsumer)
+###
 
-- 🌱 I’m currently learning **React JS, Redux, Typescript**
+<p align="left">A passionate Senior Full-stack Software Engineer from Greece</p>
 
-- 💬 Ask me about **ASP.NET, VB.NET, TSQL, Design Patterns and S.O.L.I.D**
+###
 
-- 📫 How to reach me **alexandros.apo.work@gmail.com**
+<img align="left" height="150" src="https://avatars.githubusercontent.com/u/29410057?v=4"  />
 
-- ⚡ Fun fact **Recent studies show that around 70% of coding jobs have nothing to do with technology at all**
+###
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/ntelikatos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/codepen.svg" alt="@ntelikatos" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/alexandros-apos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg" alt="alexandros-apos" height="30" width="40" /></a>
-</p>
+<div align="left">
+  <a href="alexandros.apo.dev@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/alexandros-apos" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+</div>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/microsoft-sql-server.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+###
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ntelikatos&show_icons=true&locale=en&layout=compact" alt="ntelikatos" /></p>
+<br clear="both">
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ntelikatos&show_icons=true&locale=en" alt="ntelikatos" /></p>
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ntelikatos&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ntelikatos&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ntelikatos&" alt="ntelikatos" /></p>
+###
+
+<br clear="both">
+
+<div align="left">
+  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" height="30" alt="git logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?logo=tailwindcss&logoColor=black&style=for-the-badge" height="30" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge" height="30" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white&style=for-the-badge" height="30" alt="express logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Socket.io-010101?logo=socketdotio&logoColor=white&style=for-the-badge" height="30" alt="socketio logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge" height="30" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" height="30" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" height="30" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Microsoft SQL Server-CC2927?logo=microsoftsqlserver&logoColor=white&style=for-the-badge" height="30" alt="microsoftsqlserver logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Webpack-8DD6F9?logo=webpack&logoColor=black&style=for-the-badge" height="30" alt="webpack logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Jest-C21325?logo=jest&logoColor=white&style=for-the-badge" height="30" alt="jest logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/ESLint-4B32C3?logo=eslint&logoColor=white&style=for-the-badge" height="30" alt="eslint logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=white&style=for-the-badge" height="30" alt="redux logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white&style=for-the-badge" height="30" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white&style=for-the-badge" height="30" alt="laravel logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Google Cloud-4285F4?logo=googlecloud&logoColor=white&style=for-the-badge" height="30" alt="googlecloud logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Google-4285F4?logo=google&logoColor=white&style=for-the-badge" height="30" alt="google logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=black&style=for-the-badge" height="30" alt="postman logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/JetBrains-000000?logo=jetbrains&logoColor=white&style=for-the-badge" height="30" alt="jetbrains logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=white&style=for-the-badge" height="30" alt="jira logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Sentry-362D59?logo=sentry&logoColor=white&style=for-the-badge" height="30" alt="sentry logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Apple-000000?logo=apple&logoColor=white&style=for-the-badge" height="30" alt="apple logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge" height="30" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge" height="30" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Adobe Illustrator-FF9A00?logo=adobeillustrator&logoColor=black&style=for-the-badge" height="30" alt="adobeillustrator logo"  />
+</div>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/Ntelikatos/Ntelikatos/output/snake.svg" alt="Snake animation" />
+
+###

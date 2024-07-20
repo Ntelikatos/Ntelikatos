@@ -4,20 +4,31 @@
 
 <p align="left">A passionate Senior Full-stack Software Engineer from Greece</p>
 
-###
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/Ntelikatos/Ntelikatos/output/snake.svg" alt="Snake animation" />
+
+<br clear="both">
+
+## 🤙 Contact
 
 <br clear="both">
 
 <div align="left">
-<!--   <img src="https://github-readme-stats.vercel.app/api?username=Ntelikatos&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  /> -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ntelikatos&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <a href="mailto:alexandros.apo.dev@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+  
+  <a href="https://www.linkedin.com/in/alexandros-apos" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
 </div>
 
-###
+<br clear="both">
+<br clear="both">
 
-<p align="left">Fill free to ask me about</p>
 
-###
+## Fill free to ask me about
 
 <br clear="both">
 
@@ -79,28 +90,16 @@
   <img src="https://img.shields.io/badge/Adobe Illustrator-FF9A00?logo=adobeillustrator&logoColor=black&style=for-the-badge" height="30" alt="adobeillustrator logo"  />
 </div>
 
-###
-
-<p align="left">Contact with me by</p>
-
-###
-
-<div align="left">
-  <a href="mailto:alexandros.apo.dev@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/alexandros-apos" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-</div>
-
-###
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Ntelikatos&theme=radical&no-frame=false&no-bg=true&margin-w=4&exclude=Issues,PullRequests,Followers,Stars,Reviews)
-
+<br clear="both">
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Ntelikatos/Ntelikatos/output/snake.svg" alt="Snake animation" />
+![](https://github-readme-streak-stats.herokuapp.com/?user=Ntelikatos&theme=dark&hide_border=false)
 
-###
+<br clear="both">
+<br clear="both">
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Ntelikatos&theme=radical&no-frame=false&no-bg=true&margin-w=4&title=Commits,Experience,Repositories)
+
+<br clear="both">
+<br clear="both">
